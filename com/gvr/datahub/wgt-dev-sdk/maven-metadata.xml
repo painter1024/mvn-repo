@@ -4,9 +4,8 @@
   <artifactId>wgt-dev-sdk</artifactId>
   <versioning>
     <versions>
-      <version>1.1-SNAPSHOT</version>
       <version>1.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20191226030024</lastUpdated>
+    <lastUpdated>20191226031841</lastUpdated>
   </versioning>
 </metadata>
